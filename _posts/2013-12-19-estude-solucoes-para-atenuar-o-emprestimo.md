@@ -3,9 +3,9 @@ layout: default
 title: Estude soluções para atenuar o empréstimo
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Estude soluções para atenuar o empréstimo
+## Estude soluções para atenuar o empréstimo
 
 Analise a possibilidade de subscrever produtos ou serviços que atenuem o empréstimo. Por exemplo seguros ou contas bancárias.
 

@@ -3,9 +3,9 @@ layout: default
 title: Informe-se e analise
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Informe-se e analise
+## Informe-se e analise
 
 Recolha o máximo de informação possível sobre o crédito. O melhor mesmo é até imprimir tudo, colocar num dossier e analisar bem toda a informação que conseguiu reunir.
 

@@ -3,9 +3,9 @@ layout: default
 title: Publicidade enganosa
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Publicidade enganosa
+## Publicidade enganosa
 
 No que diz respeito a empréstimos pessoais existem sempre inúmeras publicidades que prometem mundos e fundos verdadeiramente apetecíveis. No entanto, deve ficar atento e saber que algumas publicidades escondem armadilhas.
 
